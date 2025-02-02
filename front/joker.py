@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Annotated, Generator
 
 import typer
-import aiohttp
+import aiohttp # type: ignore
 
 
 jokers = dict(
