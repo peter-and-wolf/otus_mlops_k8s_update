@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 */models/
-*/data/
 *.pkl
+.DS_Store
